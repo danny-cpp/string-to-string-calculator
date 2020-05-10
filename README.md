@@ -8,13 +8,21 @@ string-input-string-output c++ calculator module
   Compile using the included Makefile (for Linux based) or any system builder. Function takes in a string argument and output a string argument. Calculator works for complex numbers. Below is the syntax code.
   
   //-------------------------------Table of function codes--------------------//
+	
 	//----function----- //-----syntax-----//-------code------//
+	
 	//   +,-,*, /       //     same       //   1,(1,2,3,4)   //
+	
 	//        ^         //       ^        //       1,5       // 
+	
 	//  sin, cos, tan   //   s(, c(, t(   //    3,(8,9,10) 	 // (Always with bracket)
+	
 	// asin, acos, atan // as(, ac(, at(  //    3,(11,12,13) //
+	
 	//   natural log    //       ln(      //       3,14      //
+	
 	//   square root    //       r(       //       3,15      //
+	
 	//    negative      //       _(       //       3,16      //
   
 5. Acknowledgement:
