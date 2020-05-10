@@ -25,9 +25,11 @@ string-input-string-output c++ calculator module
 	
 	//    negative      //       _(       //       3,16      //
   
-5. Acknowledgement:
+3. Acknowledgement:
 	Shunting Yard algorithm was inspired by Briliant.org (pseudocode) at https://brilliant.org/wiki/shunting-yard-algorithm/ . Project used codes and ideas from our own previous works.
   
 Danh Nguyen
+
 University of Alberta
+
 Winter 2020
